@@ -3,9 +3,18 @@
 
 ### Hi there 👋. I am Parmenas Munene
 
-I am a software developer with a strong focus on Javascript and its Libraries, currently working as a Senior Software developer.
+I am a **Senior Software Developer · JavaScript Specialist · Open Source Enthusiast** building performant, scalable web experiences.
 
-- :man_technologist: My current Tech Stacks are: [React.Js](https://react.dev/),  [Vue.JS3](https://vuejs.org/), [Angular](https://angular.dev/). [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [Node.JS](https://nodejs.org/en/),[GrapQL](https://graphql.org/) and [Next.JS](https://nextjs.org/).
-- :man_student: I am currently working on: [Golang](https://go.dev/), [RUST](https://rust-lang.org/) and [Infrastracture as Code](https://developer.hashicorp.com/terraform).
-- :door: I am also looking for opportunities to improve my skills.
-- :bird: You can find me at: [@parmenas](linkedin.com/in/parmenas-munene-575384247)
+- :man_technologist: My current Tech Stacks: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+- :man_student: I am currently expanding into systems programming and infrastructure:: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white).
+- :door: I'm open to collaborations, freelance opportunities, and interesting conversations about tech..
+- :bird: You can find me at: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parmenasmunene165@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/parmenas-munene-575384247) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/parmenas)
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=kl-udge&theme=aura_dark&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kl-udge&theme=aura_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kl-udge&theme=aura_dark" height="150" />
+</p>
