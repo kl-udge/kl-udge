@@ -13,8 +13,8 @@ I am a **Senior Software Developer · JavaScript Specialist · Open Source Enthu
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=kl-udge&theme=aura_dark&hide_border=true" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kl-udge&theme=aura_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kl-udge&theme=aura_dark" height="150" />
-</p>
+<table><tr>
+  <td><img src="https://streak-stats.demolab.com/?user=kl-udge&theme=aura_dark&hide_border=true" height="150" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kl-udge&theme=aura_dark" height="150" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kl-udge&theme=aura_dark" height="150" /></td>
+</tr></table>
