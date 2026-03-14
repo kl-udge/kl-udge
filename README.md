@@ -3,7 +3,7 @@
 
 ### Hi there 👋. I am Parmenas Munene
 
-I am a **Senior Software Developer · JavaScript Specialist · Open Source Enthusiast** building performant, scalable web experiences.
+I am a **Senior Software Engineer · JavaScript Specialist · Open Source Enthusiast** building performant, scalable web experiences.
 
 - :man_technologist: My current Tech Stacks: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
