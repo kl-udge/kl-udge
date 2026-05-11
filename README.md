@@ -14,7 +14,7 @@ I am a **Senior Software Engineer · JavaScript Specialist · Open Source Enthus
 ## 📊 GitHub Stats
 
 <table><tr>
-  <!-- <td><img src="https://streak-stats.demolab.com/?user=kl-udge&theme=aura_dark&hide_border=true" height="150" /></td> -->
+  <td><img src="https://streak-stats.demolab.com/?user=kl-udge&theme=aura_dark&hide_border=true" height="150" /></td>
   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kl-udge&theme=aura_dark" height="150" /></td>
   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kl-udge&theme=aura_dark" height="150" /></td>
 </tr></table>
